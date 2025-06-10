@@ -1,8 +1,8 @@
 ---
-name: Workgroup Documentation and support activities
+name: Workgroup Documentation and support activities in MONTH
 about: Activity List that is related to Documentation Drafting and Updates or other
   supporting activities related to this WG
-title: Workgroup Documentation and support activities
+title: Workgroup Documentation and support activities in MONTH
 labels: Documentation
 assignees: ''
 
