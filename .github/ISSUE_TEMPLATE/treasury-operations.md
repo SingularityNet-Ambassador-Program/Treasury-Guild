@@ -17,5 +17,5 @@ ddmm - 1h -
 
 > Assign Field that task is already rewarded (Rewarded from Swarm Fee)
 
-> [Query Chat GPT](https://chatgpt.com/g/g-6842daeb4614819181a95a8fc20d20b3-meeting-task-assistant) with a Picture if you think it will be faster to calculate total mins for the task
-> This GPT is created to accept pictures no prompt needed
+> [Query Chat GPT](https://chatgpt.com/g/g-6842daeb4614819181a95a8fc20d20b3-meeting-task-assistant) with a copy of the activity list, which includes time measurements. (You can also use a picture)
+> This GPT is created to accept text and pictures with no context needed
