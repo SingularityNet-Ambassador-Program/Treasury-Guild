@@ -7,7 +7,7 @@ assignees: whitevo
 
 ---
 
-Created a Task to list the time it takes to solve questions from the community related to rewards and distributions.
+This activity List is measuring time to solve Treasury-related questions (rewards and distributions).
 The time spent on these tasks should be measured against the number of active wallets using the Treasury System.
 This task is related to [Swarm Treasury Guild Service](https://docs.google.com/spreadsheets/d/1PnqBEh4eidAh-MqyfLOorQX4XhA-z4zOlgqxjyJKzh4)
 
