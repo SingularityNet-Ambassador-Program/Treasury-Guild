@@ -2,7 +2,7 @@
 name: Treasury Operations
 about: Time it takes to import, audit and bundle tasks
 title: Treasury Operations in Q1_2_3_4
-labels: Documentation, Operations
+labels: Documentation, Operations, SWARM
 assignees: whitevo
 
 ---
